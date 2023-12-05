@@ -1,0 +1,22 @@
+2023/12/06 00:36:27 [notice] 8260#23656: signal process started
+2023/12/06 00:36:27 [error] 8260#23656: OpenEvent("Global\ngx_reload_16972") failed (5: Access is denied)
+2023/12/06 00:36:42 [notice] 30468#27424: signal process started
+2023/12/06 00:36:42 [error] 30468#27424: OpenEvent("Global\ngx_reload_16972") failed (5: Access is denied)
+2023/12/06 00:38:03 [notice] 24264#35240: signal process started
+2023/12/06 00:38:34 [error] 23472#28196: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/12/06 00:40:42 [notice] 27000#2904: signal process started
+2023/12/06 00:40:45 [error] 33872#23156: *4 directory index of "C:/nginx/htdocs/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/12/06 00:41:17 [error] 33872#23156: *4 directory index of "C:/nginx/htdocs/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/12/06 00:43:23 [notice] 26668#14144: signal process started
+2023/12/06 00:43:36 [notice] 28560#25504: signal process started
+2023/12/06 00:43:39 [notice] 34416#6692: signal process started
+2023/12/06 00:43:39 [error] 34416#6692: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/06 00:43:48 [notice] 20812#30696: signal process started
+2023/12/06 00:43:48 [error] 20812#30696: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/06 00:43:53 [notice] 35440#9368: signal process started
+2023/12/06 00:43:53 [error] 35440#9368: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/06 00:44:48 [notice] 20236#29080: signal process started
+2023/12/06 00:45:12 [notice] 34064#29568: signal process started
+2023/12/06 00:47:11 [notice] 16328#18376: signal process started
+2023/12/06 00:47:21 [notice] 34484#6728: signal process started
+2023/12/06 00:57:47 [notice] 6628#35320: signal process started
